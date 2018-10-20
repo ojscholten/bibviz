@@ -1,10 +1,3 @@
-'''
-Ollie's basic bib file visualizer.
-
-What it does: makes a picture (bar chart-esque) where the top bar is the year of the most recent citation, and the bottom is the earliest
-
-How to use it: put this file in the same directory as a bib file called 'test.bib' call 'python this_script.py'
-'''
 from pybtex.database import parse_file
 from PIL import Image, ImageFont, ImageDraw 
 import matplotlib.pyplot as plt
