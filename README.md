@@ -4,12 +4,12 @@ This script creates a basic bar chart style image based on the number of citatio
 # Using This Script
 This script uses Python 3.7.0 and requires the pybtex, pillow, and matplotlib packages installed using the command below;
 
-'pip install pybtex pillow matplotlib'
+`pip install pybtex pillow matplotlib`
 
 ## Call Command
 To call this script use the command format below where the only argument is the name of the bib file in the same directory as the script;
 
-'python bibviz.py test.bib'
+`python bibviz.py test.bib`
 
 # Notes
 This project uses SaxMono, a 100% free font available here: https://www.dafont.com/saxmono.font
