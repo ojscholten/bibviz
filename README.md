@@ -1,4 +1,4 @@
-# BibViz Script
+# Bib File Visualizer (BibViz) Script
 This script creates a basic bar chart style image based on the number of citations per year in a given bib file. This is useful for literature reviews and other literature work to quickly get an impression of the spread and relative timing of publications you are citing.
 
 # Using This Script
