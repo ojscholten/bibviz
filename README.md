@@ -15,3 +15,7 @@ python bibviz.py test.bib
 This project uses SaxMono, a 100% free font available here: https://www.dafont.com/saxmono.font
 
 Other fonts can be added by changing the directory of the .ttf file.
+
+
+
+Last tested & working: 20/10/2018
